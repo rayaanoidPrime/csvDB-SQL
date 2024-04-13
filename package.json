@@ -1,7 +1,7 @@
 {
-  "name": "stylusdb-sql",
+  "name": "csvdb-sql",
   "version": "1.0.1",
-  "description": "A minimal SQL based DB based on CSV files. For educational purposes only.",
+  "description": "A minimal SQL based DB query engine based on CSV files. For educational purposes only.",
   "main": "./src/index.js",
   "directories": {
     "doc": "docs"
@@ -41,7 +41,7 @@
     "stylusdb-cli": "node ./src/cli.js"
   },
   "keywords": [],
-  "author": "Chakshu Gautam",
+  "author": "Rayaan Ghosh",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
