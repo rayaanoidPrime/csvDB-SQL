@@ -4,7 +4,7 @@ A SQL database engine written in JavaScript.
 
 </p>
 
-This is my implementation of the C4GT classroom program. This is developed from the base repository for cohort members to follow the tutorial and send in their own StylusDB SQL implementations. Inspired by : https://github.com/ChakshuGautam/stylusdb-sql
+This is my implementation of the C4GT classroom program project StylusDB-SQL. This is developed from the base repository for cohort members to follow the tutorial and send in their own StylusDB SQL implementations. Inspired by : https://github.com/ChakshuGautam/stylusdb-sql
 
 > **Disclaimer**:
 > This database is for educational purposes only. It is not intended for production use. It is written ground up in JavaScript and is a great way to learn how databases work. You can find the tutorial in the [docs](./docs) directory.
